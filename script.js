@@ -1,5 +1,5 @@
 // VARIABLES
-const apiKey = "56b54737cee432fa16e84110b8e24e90";
+const apiKey = "215b4b5ade003cb5509e3e8007aeb7e1";
 
 const map = L.map('mapid').setView([46.71109, 1.7191036], 1);
 
